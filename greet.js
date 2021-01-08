@@ -1,3 +1,3 @@
-cont helloWorld = (name = 'World') => {
+cont greet = (name = 'World') => {
     return `Hello ${name}!`;
 }
